@@ -3,3 +3,6 @@
 differnt types of foods make in our kitchen
 
 -injera
+-bread
+-kita
+-pasta
